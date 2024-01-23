@@ -21,6 +21,4 @@ pip install pandas openpyxl
 
 Execute o código em um ambiente Python, e ele processará os dados do MapBiomas e calculará o indicador M_FLONATIVA. Os resultados serão salvos em um arquivo Excel chamado 'area_cobertura.xlsx'.
 
-```python
-# Insira o código Python aqui
 ```
