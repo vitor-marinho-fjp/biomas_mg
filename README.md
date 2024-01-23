@@ -24,7 +24,3 @@ Execute o código em um ambiente Python, e ele processará os dados do MapBiomas
 ```python
 # Insira o código Python aqui
 ```
-
-Lembre-se de substituir o código Python acima pelo código fornecido anteriormente.
-
-Para dúvidas ou mais informações, entre em contato com o autor do código.
